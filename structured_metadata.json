@@ -1,0 +1,18 @@
+[
+    {
+        "source_url" : "refs/heads/main/structured_data/Orders_Data.csv",
+        "sink_folder" : "Orders_data_bronze",
+        "sink_file" : "orders.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/structured_data/customers.csv",
+        "sink_folder" : "customer_data_bronze",
+        "sink_file" : "customers.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/structured_data/products.csv",
+        "sink_folder" : "products_data_bronze",
+        "sink_file" : "products.csv"
+    }
+]
