@@ -1,0 +1,18 @@
+[
+    {
+        "source_url" : "refs/heads/main/unstructured_data/reviews.json",
+        "sink_folder" : "Bronze_Reviews",
+        "sink_file" : "reviews.json"
+    },
+    {
+         "source_url" : "refs/heads/main/unstructured_data/social_media.json",
+        "sink_folder" : "Bronze_Social_Media",
+        "sink_file" : "social_media.json"
+
+    },
+    {
+        "source_url" : "refs/heads/main/unstructured_data/web_logs.json",
+        "sink_folder" : "Bronze_Web_Logs",
+        "sink_file" : "web_logs.json"
+    }
+]
